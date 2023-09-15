@@ -1,0 +1,6 @@
+[submodule "norg-desktop"]
+	path = norg-desktop
+	url = https://github.com/ItsThompson/norg-desktop.git
+[submodule "norg-engine"]
+	path = norg-engine
+	url = https://github.com/ItsThompson/norg-engine.git
